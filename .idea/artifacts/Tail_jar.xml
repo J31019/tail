@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Tail:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Tail_jar</output-path>
+    <root id="archive" name="Tail.jar">
+      <element id="module-output" name="Tail" />
+    </root>
+  </artifact>
+</component>
