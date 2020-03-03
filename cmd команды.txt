@@ -1,0 +1,4 @@
+rundll32.exe keymgr.dll,KRShowKeyMgr  сетевые пароли виндоус
+gpedit.msc редактор локальной груповой политики
+devmgmt.msc диспетчер устройст
+TERMSRV/192.168.1.100  ключ
